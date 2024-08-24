@@ -1,0 +1,7 @@
+conda install conda-forge::stable-baselines3
+
+conda install --yes --file requirements.txt
+
+ conda install conda-forge::gymnasium
+
+
