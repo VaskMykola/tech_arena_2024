@@ -9,7 +9,7 @@ This repo contains our unfinished solution for the [2024 Ireland Tech Arena](htt
 - oliver
 
 ## Current Status
-Honestly, we didn't finish it. We left the competition feeling pretty down about it. The `nick_example` branch has some code that's supposed to train a PPO model to make decisions, but it's not working right. The model's not learning properly, the reward is always None or super negative, and it's just picking random numbers. 😒
+Honestly, we didn't finish it. We left the competition feeling pretty down about it, as None of us had enough time for it. The `nick_example` branch has some code that's supposed to train a PPO model to make decisions, but it's not working right. The model's not learning properly, the reward is always None or super negative, and it's just picking random numbers. 😒
 
 ## Why This Repo Exists
 I'm not deleting this repo for now, even though I'm not proud of it. Here's why:
